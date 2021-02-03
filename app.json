@@ -9,11 +9,11 @@
       "image": "./assets/splash.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff",
-    "platform": [
-      "ios",
-      "android",
-      "web"
-    ]
+      "platform": [
+        "ios",
+        "android",
+        "web"
+      ]
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -32,6 +32,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
